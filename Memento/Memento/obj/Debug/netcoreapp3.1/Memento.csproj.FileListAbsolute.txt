@@ -1,0 +1,4 @@
+C:\Users\mkref\source\repos\DesignPatterns\Memento\Memento\obj\Debug\netcoreapp3.1\Memento.csprojAssemblyReference.cache
+C:\Users\mkref\source\repos\DesignPatterns\Memento\Memento\obj\Debug\netcoreapp3.1\Memento.AssemblyInfoInputs.cache
+C:\Users\mkref\source\repos\DesignPatterns\Memento\Memento\obj\Debug\netcoreapp3.1\Memento.AssemblyInfo.cs
+C:\Users\mkref\source\repos\DesignPatterns\Memento\Memento\obj\Debug\netcoreapp3.1\Memento.csproj.CoreCompileInputs.cache
